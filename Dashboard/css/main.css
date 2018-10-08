@@ -1,0 +1,13 @@
+body {
+    background-color: #000;
+}
+#speed {
+    color: #fff;
+    font-size: 120px;
+    font-family: "Super Quick Formula";
+}
+
+@font-face {
+    font-family: "Super Quick Formula";
+    src: url('../fonts/Super Quick Formula.ttf');
+}
